@@ -58,6 +58,3 @@ if __name__ == "__main__":
     while select_random_movie(movie_list, movie_links) == '1':
         select_random_movie(movie_list, movie_links)
     
-    
-    
-    
